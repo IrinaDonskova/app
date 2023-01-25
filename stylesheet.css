@@ -1,0 +1,59 @@
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('fonts/SFUIDisplay-Regular.eot');
+    src: local('SF UI Display Regular'), local('SFUIDisplay-Regular'),
+    url('fonts/SFUIDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/SFUIDisplay-Regular.woff2') format('woff2'),
+    url('fonts/SFUIDisplay-Regular.woff') format('woff'),
+    url('fonts/SFUIDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF UI Text';
+    src: url('fonts/SFUIText-RegularItalic.eot');
+    src: local('SF UI Text Regular Italic'), local('SFUIText-RegularItalic'),
+    url('fonts/SFUIText-RegularItalic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/SFUIText-RegularItalic.woff2') format('woff2'),
+    url('fonts/SFUIText-RegularItalic.woff') format('woff'),
+    url('fonts/SFUIText-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('fonts/SFUIDisplay-Medium.eot');
+    src: local('SF UI Display Medium'), local('SFUIDisplay-Medium'),
+    url('fonts/SFUIDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+    url('fonts/SFUIDisplay-Medium.woff2') format('woff2'),
+    url('fonts/SFUIDisplay-Medium.woff') format('woff'),
+    url('fonts/SFUIDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('fonts/SFUIDisplay-Bold.eot');
+    src: local('SF UI Display Bold'), local('SFUIDisplay-Bold'),
+    url('fonts/SFUIDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/SFUIDisplay-Bold.woff2') format('woff2'),
+    url('fonts/SFUIDisplay-Bold.woff') format('woff'),
+    url('fonts/SFUIDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Text';
+    src: url('fonts/SFUIText-Semibold.eot');
+    src: local('SF UI Text Semibold'), local('SFUIText-Semibold'),
+    url('fonts/SFUIText-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/SFUIText-Semibold.woff2') format('woff2'),
+    url('fonts/SFUIText-Semibold.woff') format('woff'),
+    url('fonts/SFUIText-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
